@@ -1,4 +1,4 @@
-![logo](https://s3-alpha.figma.com/hub/file/5678700701/91e47b29-8ba0-49cd-a943-01a910e8199d-cover.png)
+
 <h1 align="center">Hi 👋, I'm krizen</h1>
 <h3 align="center">On my journey to becoming a MERN developer</h3>
 
